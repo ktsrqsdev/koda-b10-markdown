@@ -40,3 +40,5 @@ In general, generative AI operates in three phases:
 |**2016** | DeepMind's AlphaGo program, powered by a deep neural network, beats Lee Sodol, the world champion Go player, in a five-game match. The victory is significant given the huge number of possible moves as the game progresses (over 14.5 trillion after just four moves). Later, Google purchased DeepMind for a reported USD 400 million. |
 |**2022**| A rise in large language models or LLMs, such as OpenAI’s ChatGPT, creates an enormous change in performance of AI and its potential to drive enterprise value. With these new generative AI practices, deep-learning models can be pretrained on large amounts of data.|
 |**2024** | The latest AI trends point to a continuing AI renaissance. Multimodal models that can take multiple types of data as input are providing richer, more robust experiences. These models bring together computer vision image recognition and NLP speech recognition capabilities. Smaller models are also making strides in an age of diminishing returns with massive models with large parameter counts. |
+
+Article: [Artikel Asli](https://www.ibm.com/think/topics/artificial-intelligence)
